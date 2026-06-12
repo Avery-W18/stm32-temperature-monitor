@@ -8,12 +8,16 @@ The system uses an interrupt-driven architecture for temperature acquisition, pr
 
 ## Firmware Flowchart
 
-<img width="761" height="447" alt="Picture1" src="https://github.com/user-attachments/assets/b04a6417-eaaa-4e02-8c09-ee2eec74dc25" />
-
+<p align="center">
+  <img width="761" height="447" alt="Picture1" src="https://github.com/user-attachments/assets/b04a6417-eaaa-4e02-8c09-ee2eec74dc25" />
+</p>
 
 ## Circuit Diagram
 
-<img width="628" height="386" alt="Picture2" src="https://github.com/user-attachments/assets/4fa9e3ba-1b86-4f81-a801-52bf247a0db8" />
+<p align="center">
+  <img width="628" height="386" alt="Picture2" src="https://github.com/user-attachments/assets/4fa9e3ba-1b86-4f81-a801-52bf247a0db8" />
+</p>
+
 
 ## Features
 
