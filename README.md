@@ -28,6 +28,13 @@ The system uses an interrupt-driven architecture for temperature acquisition, pr
 * MATLAB
 * AD2 Logic Analyzer
 
+## Firmware Flowchart
+![Circuit Diagram](<img width="981" height="603" alt="image" src="https://github.com/user-attachments/assets/33d12c2d-cc07-418c-b0dd-bd2bbee298a1" />)
+
+## Circuit Diagram
+![Circuit Diagram](![Circuit Diagram](docs/circuit_diagram.png)
+
+
 ## Demo Video
 
 [YouTube Demo](https://youtube.com/shorts/VCGkpnGxSkg)
