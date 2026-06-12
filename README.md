@@ -59,3 +59,20 @@ The system uses an interrupt-driven architecture for temperature acquisition, pr
 * Improved measurement stability using 64-sample ADC averaging.
 * Streamed real-time temperature data to a PC via USART2 at 115200 bps in CSV format.
 * Validated system timing using a logic analyzer and verified thermal response through MATLAB analysis.
+
+## Documentation
+
+- 📄 [Technical Report](docs/STM32_Temperature_Monitoring_Report.pdf)
+- 📄 [Project Summary](docs/STM32_Temperature_Monitoring_Project_Summary.pdf)
+
+## Skills Demonstrated
+*Embedded Systems
+* Embedded C
+* STM32L476RG
+* ARM Cortex-M4
+* Firmware Development
+* ADC
+* UART / USART
+* Interrupt-Driven Programming
+* MATLAB
+* Hardware Debugging
