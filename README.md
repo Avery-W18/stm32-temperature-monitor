@@ -10,10 +10,11 @@ The system uses an interrupt-driven architecture for temperature acquisition, pr
 <p align="center">
   <img width="900" height="447" alt="Picture1" src="https://github.com/user-attachments/assets/fb431790-148f-4944-a4be-cec66fc39959" />
 </p>
+*STM32L476RG Nucleo board interfaced with a TMP36 temperature sensor and pushbutton input used for interrupt-driven temperature acquisition.*
 
 ## Watch the Demo:
 
-**[Watch the Project Demo on YouTube](https://youtube.com/shorts/VCGkpnGxSkg)
+[Watch the Project Demo on YouTube](https://youtube.com/shorts/VCGkpnGxSkg)
 
 
 ## Firmware Flowchart
