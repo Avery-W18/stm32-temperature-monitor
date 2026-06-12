@@ -66,7 +66,7 @@ The system uses an interrupt-driven architecture for temperature acquisition, pr
 - 📄 [Technical Report](docs/STM32_Temperature_Monitoring_Report.pdf.pdf)
 
 ## Skills Demonstrated
-*Embedded Systems
+* Embedded Systems
 * Embedded C
 * STM32L476RG
 * ARM Cortex-M4
