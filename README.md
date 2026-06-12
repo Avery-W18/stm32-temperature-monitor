@@ -30,7 +30,7 @@ The system uses an interrupt-driven architecture for temperature acquisition, pr
 
 ## Demo Video
 
-[YouTube Demo](PASTE_YOUR_YOUTUBE_LINK_HERE)
+[YouTube Demo](https://youtube.com/shorts/VCGkpnGxSkg)
 
 ## Repository Structure
 
