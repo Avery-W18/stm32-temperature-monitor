@@ -57,6 +57,7 @@ The system uses an interrupt-driven architecture for temperature acquisition, pr
 ## Repository Structure
 
 ```text
+docs/ - Flowchart, circuit diagram, project report, and supporting documentation
 src/  - Source files
 inc/  - Header files
 ```
