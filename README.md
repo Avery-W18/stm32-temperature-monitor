@@ -6,6 +6,11 @@ This project implements a real-time temperature monitoring system on the STM32L4
 
 The system uses an interrupt-driven architecture for temperature acquisition, processing, and communication while maintaining low CPU utilization and responsive operation.
 
+## Watch the Demo:
+
+[YouTube Demo](https://youtube.com/shorts/VCGkpnGxSkg)
+
+
 ## Firmware Flowchart
 
 <p align="center">
@@ -48,11 +53,6 @@ The system uses an interrupt-driven architecture for temperature acquisition, pr
 * Improved measurement stability using 64-sample ADC averaging.
 * Streamed real-time temperature data to a PC via USART2 at 115200 bps in CSV format.
 * Validated system timing using a logic analyzer and verified thermal response through MATLAB analysis.
-
-
-## Watch the Demo:
-
-[YouTube Demo](https://youtube.com/shorts/VCGkpnGxSkg)
 
 ## Repository Structure
 
