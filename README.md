@@ -37,6 +37,15 @@ The system uses an interrupt-driven architecture for temperature acquisition, pr
 * MATLAB
 * AD2 Logic Analyzer
 
+## Results
+
+* Implemented an interrupt-driven temperature monitoring system on the STM32L476RG using Embedded C.
+* Acquired temperature measurements through the STM32's 12-bit ADC and TMP36 sensor interface.
+* Improved measurement stability using 64-sample ADC averaging.
+* Streamed real-time temperature data to a PC via USART2 at 115200 bps in CSV format.
+* Validated system timing using a logic analyzer and verified thermal response through MATLAB analysis.
+
+
 ## Demo Video
 
 [YouTube Demo](https://youtube.com/shorts/VCGkpnGxSkg)
