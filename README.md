@@ -63,7 +63,7 @@ The system uses an interrupt-driven architecture for temperature acquisition, pr
 ## Documentation
 
 - 📄 [Technical Report](docs/STM32_Temperature_Monitoring_Project_Summary.pdf)
-- 📄 [Project Summary]([)
+- 📄 [Project Summary](docs/STM32_Temperature_Monitoring_Report.pdf.pdf)
 
 ## Skills Demonstrated
 *Embedded Systems
