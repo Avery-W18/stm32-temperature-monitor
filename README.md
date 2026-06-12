@@ -46,7 +46,7 @@ The system uses an interrupt-driven architecture for temperature acquisition, pr
 * Validated system timing using a logic analyzer and verified thermal response through MATLAB analysis.
 
 
-## Demo Video
+## Watch the Demo:
 
 [YouTube Demo](https://youtube.com/shorts/VCGkpnGxSkg)
 
