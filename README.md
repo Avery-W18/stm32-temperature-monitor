@@ -54,14 +54,6 @@ The system uses an interrupt-driven architecture for temperature acquisition, pr
 * Streamed real-time temperature data to a PC via USART2 at 115200 bps in CSV format.
 * Validated system timing using a logic analyzer and verified thermal response through MATLAB analysis.
 
-## Repository Structure
-
-```text
-docs/ - Flowchart, circuit diagram, project report, and supporting documentation
-src/  - Source files
-inc/  - Header files
-```
-
 ## Skills Demonstrated
 
 Embedded Systems, Firmware Development, STM32, ARM Cortex-M4, ADC, UART, Interrupts, Real-Time Systems, Debugging, MATLAB
