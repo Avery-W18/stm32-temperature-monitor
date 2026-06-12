@@ -29,10 +29,10 @@ The system uses an interrupt-driven architecture for temperature acquisition, pr
 * AD2 Logic Analyzer
 
 ## Firmware Flowchart
-![Circuit Diagram](<img width="981" height="603" alt="image" src="https://github.com/user-attachments/assets/33d12c2d-cc07-418c-b0dd-bd2bbee298a1" />))
+![Circuit Diagram](<img width="628" height="386" alt="Picture2" src="https://github.com/user-attachments/assets/3feeee19-5dd9-47c0-bde6-7d4290ae7279" />)
 
 ## Circuit Diagram
-![Circuit Diagram](![Circuit Diagram](<img width="1189" height="699" alt="image" src="https://github.com/user-attachments/assets/34a0554b-e46d-4f03-911e-5d400128d375" />)
+![Circuit Diagram](![Circuit Diagram]()
 
 
 ## Demo Video
