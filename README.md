@@ -6,6 +6,11 @@ This project implements a real-time temperature monitoring system on the STM32L4
 
 The system uses an interrupt-driven architecture for temperature acquisition, processing, and communication while maintaining low CPU utilization and responsive operation.
 
+## Physical Implementation
+<p aling="center">
+  <img width="1252" height="958" alt="Picture1" src="https://github.com/user-attachments/assets/fb431790-148f-4944-a4be-cec66fc39959" />
+</p>
+
 ## Watch the Demo:
 
 [YouTube Demo](https://youtube.com/shorts/VCGkpnGxSkg)
