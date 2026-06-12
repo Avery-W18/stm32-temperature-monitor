@@ -6,6 +6,15 @@ This project implements a real-time temperature monitoring system on the STM32L4
 
 The system uses an interrupt-driven architecture for temperature acquisition, processing, and communication while maintaining low CPU utilization and responsive operation.
 
+## Firmware Flowchart
+
+<img width="761" height="447" alt="Picture1" src="https://github.com/user-attachments/assets/b04a6417-eaaa-4e02-8c09-ee2eec74dc25" />
+
+
+## Circuit Diagram
+
+<img width="628" height="386" alt="Picture2" src="https://github.com/user-attachments/assets/4fa9e3ba-1b86-4f81-a801-52bf247a0db8" />
+
 ## Features
 
 * 12-bit ADC temperature acquisition
@@ -27,16 +36,6 @@ The system uses an interrupt-driven architecture for temperature acquisition, pr
 * STM32CubeIDE
 * MATLAB
 * AD2 Logic Analyzer
-
-## Firmware Flowchart
-
-<img width="761" height="447" alt="Picture1" src="https://github.com/user-attachments/assets/b04a6417-eaaa-4e02-8c09-ee2eec74dc25" />
-
-
-## Circuit Diagram
-
-<img width="628" height="386" alt="Picture2" src="https://github.com/user-attachments/assets/4fa9e3ba-1b86-4f81-a801-52bf247a0db8" />
-
 
 ## Demo Video
 
