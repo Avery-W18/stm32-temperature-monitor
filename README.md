@@ -26,7 +26,7 @@ The system uses an interrupt-driven architecture for temperature acquisition, pr
 * Embedded C
 * STM32CubeIDE
 * MATLAB
-* Logic Analyzer
+* AD2 Logic Analyzer
 
 ## Demo Video
 
