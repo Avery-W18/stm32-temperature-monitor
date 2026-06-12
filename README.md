@@ -14,7 +14,7 @@ The system uses an interrupt-driven architecture for temperature acquisition, pr
 
 ## Watch the Project Demo on YouTube:
 
-[](https://youtube.com/shorts/VCGkpnGxSkg?si=lCWobiPJN4j2y3_K)
+[Watch the Project Demo on YouTube](https://youtube.com/shorts/VCGkpnGxSkg?si=lCWobiPJN4j2y3_K)
 
 
 ## Firmware Flowchart
