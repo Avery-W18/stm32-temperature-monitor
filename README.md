@@ -8,7 +8,7 @@ The system uses an interrupt-driven architecture for temperature acquisition, pr
 
 ## Physical Implementation
 <p align="center">
-  <img width="900" height="958" alt="Picture1" src="https://github.com/user-attachments/assets/fb431790-148f-4944-a4be-cec66fc39959" />
+  <img width="900" height="447" alt="Picture1" src="https://github.com/user-attachments/assets/fb431790-148f-4944-a4be-cec66fc39959" />
 </p>
 
 ## Watch the Demo:
